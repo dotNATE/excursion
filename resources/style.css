@@ -1,1 +1,20 @@
-ECHO is on.
+/* Universal Rules */
+
+* {
+  font-family: Verdana;
+  text-align: center;
+  background-color: black;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+/* Header */
+
+header {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
