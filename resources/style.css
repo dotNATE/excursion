@@ -11,10 +11,29 @@ a {
   font-size: 16px;
 }
 
+h1,
+h2 {
+  color: white;
+  font-weight: 300px;
+  font-size: 42px;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
 /* Header */
 
 header {
   font-weight: normal;
   font-size: 50px;
   color: white;
+}
+
+/* Footer */
+
+.copyright {
+  text-align: right;
+  color: gray;
 }
